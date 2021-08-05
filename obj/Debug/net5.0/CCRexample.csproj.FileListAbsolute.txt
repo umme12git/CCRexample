@@ -1,0 +1,16 @@
+C:\Users\unnip\repos\CCRexample\bin\Debug\net5.0\CCRexample.exe
+C:\Users\unnip\repos\CCRexample\bin\Debug\net5.0\CCRexample.deps.json
+C:\Users\unnip\repos\CCRexample\bin\Debug\net5.0\CCRexample.runtimeconfig.json
+C:\Users\unnip\repos\CCRexample\bin\Debug\net5.0\CCRexample.runtimeconfig.dev.json
+C:\Users\unnip\repos\CCRexample\bin\Debug\net5.0\CCRexample.dll
+C:\Users\unnip\repos\CCRexample\bin\Debug\net5.0\ref\CCRexample.dll
+C:\Users\unnip\repos\CCRexample\bin\Debug\net5.0\CCRexample.pdb
+C:\Users\unnip\repos\CCRexample\obj\Debug\net5.0\CCRexample.csproj.AssemblyReference.cache
+C:\Users\unnip\repos\CCRexample\obj\Debug\net5.0\CCRexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unnip\repos\CCRexample\obj\Debug\net5.0\CCRexample.AssemblyInfoInputs.cache
+C:\Users\unnip\repos\CCRexample\obj\Debug\net5.0\CCRexample.AssemblyInfo.cs
+C:\Users\unnip\repos\CCRexample\obj\Debug\net5.0\CCRexample.csproj.CoreCompileInputs.cache
+C:\Users\unnip\repos\CCRexample\obj\Debug\net5.0\CCRexample.dll
+C:\Users\unnip\repos\CCRexample\obj\Debug\net5.0\ref\CCRexample.dll
+C:\Users\unnip\repos\CCRexample\obj\Debug\net5.0\CCRexample.pdb
+C:\Users\unnip\repos\CCRexample\obj\Debug\net5.0\CCRexample.genruntimeconfig.cache
